@@ -25,6 +25,8 @@ class RandomSearch:
 
             self.__max_weight = int(lines[-1])
 
+    #this method evaluates the value of a solution for a knapsack problem , each item has a weight and a value
+    #and there is a constraint of the maximum weight that can be carried
     def __eval(self, solution):
         total_weight = 0
         total_value = 0
@@ -37,6 +39,8 @@ class RandomSearch:
             return total_value
         return 0
 
+    #this method generates a random solution, where each item is represented either by '0' or by '1'.
+    #0 is not included, 1 is included. The decision the include is made randomly.
     def __generate(self):
         solution = []
         for _ in range(len(self.__obj)):
@@ -44,6 +48,8 @@ class RandomSearch:
             solution.append(choice)
         return solution
 
+    #this method performs a random search process where the solutions are evaluated. The best solution found
+    #over the specified number of iterations is returned.
     def search(self, iteration):
         for i in range(iteration):
             solution = self.__generate()
