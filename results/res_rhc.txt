@@ -1,0 +1,80 @@
+Se foloseste *RHC(Random Hill Climbing)* si se citesc datele din fisierul: data/try3.txt
+Valoare lui K = 40, Valoarea lui P = 10 si numarul de executii este: 10
+-----Rezultatele sunt urmatoarele:-----
+0<--->0.030915498733520508
+0<--->0.02991938591003418
+0<--->0.030038118362426758
+0<--->0.02913355827331543
+0<--->0.029919862747192383
+0<--->0.030165672302246094
+0<--->0.030025005340576172
+0<--->0.030040502548217773
+0<--->0.030028581619262695
+0<--->0.030303001403808594
+Valoarea medie: 0.0
+Valoarea maxima: 0
+Media timpului de executie: 0.03004891872406006
+Se foloseste *RHC(Random Hill Climbing)* si se citesc datele din fisierul: data/try3.txt
+Valoare lui K = 50, Valoarea lui P = 10 si numarul de executii este: 10
+-----Rezultatele sunt urmatoarele:-----
+0<--->0.037047624588012695
+0<--->0.034906625747680664
+0<--->0.03490638732910156
+0<--->0.03391003608703613
+0<--->0.0341191291809082
+0<--->0.03490591049194336
+0<--->0.03390979766845703
+0<--->0.03390908241271973
+0<--->0.03586769104003906
+0<--->0.03481340408325195
+Valoarea medie: 0.0
+Valoarea maxima: 0
+Media timpului de executie: 0.034829568862915036
+Se foloseste *RHC(Random Hill Climbing)* si se citesc datele din fisierul: data/try3.txt
+Valoare lui K = 20, Valoarea lui P = 5 si numarul de executii este: 10
+-----Rezultatele sunt urmatoarele:-----
+0<--->0.015991687774658203
+0<--->0.01396322250366211
+0<--->0.013967514038085938
+0<--->0.013972043991088867
+0<--->0.013948202133178711
+0<--->0.013962745666503906
+0<--->0.013962745666503906
+0<--->0.013962507247924805
+0<--->0.013962745666503906
+0<--->0.013968467712402344
+Valoarea medie: 0.0
+Valoarea maxima: 0
+Media timpului de executie: 0.01416618824005127
+Se foloseste *RHC(Random Hill Climbing)* si se citesc datele din fisierul: data/try3.txt
+Valoare lui K = 25, Valoarea lui P = 5 si numarul de executii este: 10
+-----Rezultatele sunt urmatoarele:-----
+0<--->0.018947601318359375
+0<--->0.018949508666992188
+0<--->0.018949270248413086
+0<--->0.018949270248413086
+0<--->0.018949270248413086
+0<--->0.01795196533203125
+0<--->0.017951250076293945
+0<--->0.018949031829833984
+0<--->0.018949270248413086
+0<--->0.018949508666992188
+Valoarea medie: 0.0
+Valoarea maxima: 0
+Media timpului de executie: 0.018749594688415527
+Se foloseste *RHC(Random Hill Climbing)* si se citesc datele din fisierul: data/try3.txt
+Valoare lui K = 35, Valoarea lui P = 5 si numarul de executii este: 10
+-----Rezultatele sunt urmatoarele:-----
+0<--->0.02496790885925293
+0<--->0.023940086364746094
+0<--->0.023932218551635742
+0<--->0.02393627166748047
+0<--->0.022938013076782227
+0<--->0.02415752410888672
+0<--->0.022933006286621094
+0<--->0.023936748504638672
+0<--->0.02393507957458496
+0<--->0.02293848991394043
+Valoarea medie: 0.0
+Valoarea maxima: 0
+Media timpului de executie: 0.023761534690856935
